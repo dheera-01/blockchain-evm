@@ -1,2 +1,2 @@
 # blockchain-evm
-A project on decentralised electronic voting system running on ethereum blockchain.
+A project on decentralised voting system running on ethereum blockchain.
